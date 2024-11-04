@@ -117,7 +117,6 @@ class User:
                 self.membership = key
             else:
                 pass
-        
         print(self.membership)
     
     def calculate_price(self,membership, list_harga_barang):
